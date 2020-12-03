@@ -1,0 +1,11 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "Learn REST_API coding with Javascript, Node.js HTTP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suthatta",
+  "license": "ISC"
+}

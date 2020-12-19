@@ -1,0 +1,4 @@
+********************************************************************************
+Date/Time: 2020-12-19
+Exception Info: {"status":500,"statusText":"Internal Server Error","message":"ENOENT: no such file or directory, open 'D:\\U\\dokument\\script\\Projects\\BethanysPiesAPI\\assets\\pies2.json'","error":{"errono":-4058,"call":"open","code":"Internal_server_error","message":"ENOENT: no such file or directory, open 'D:\\U\\dokument\\script\\Projects\\BethanysPiesAPI\\assets\\pies2.json'"},"requestInfo":{"hostname":"localhost","path":"/api/"}}
+********************************************************************************

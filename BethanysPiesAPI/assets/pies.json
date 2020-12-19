@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "wholePrice": 19.99,
+        "slicePrice": 4.99,
+        "sliceCalories": 67,
+        "imageUrl": "https://media.istockphoto.com/photos/homemade-organic-apple-pie-dessert-picture-id450752471"
+    },
+    {
+        "id": 2,
+        "name": "Blueberry",
+        "wholePrice": 17.99,
+        "slicePrice": 5.99,
+        "sliceCalories": 60,
+        "imageUrl": "https://media.istockphoto.com/photos/blueberry-tart-with-berries-on-top-picture-id176041382"
+    },
+    {
+        "id": 3,
+        "name": "Green Mango",
+        "wholePrice": 17.99,
+        "slicePrice": 5.99,
+        "sliceCalories": 60,
+        "imageUrl": "https://media.istockphoto.com/photos/blueberry-tart-with-berries-on-top-picture-id176041382"
+    },
+    {
+        "id": 4,
+        "name": "Apple--9999",
+        "wholePrice": 19.99,
+        "slicePrice": 4.99,
+        "sliceCalories": 67,
+        "imageUrl": "https://media.istockphoto.com/photos/"
+    }
+]
